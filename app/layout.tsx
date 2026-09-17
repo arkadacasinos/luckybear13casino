@@ -71,6 +71,7 @@ export default function RootLayout({
   return (
     <html lang="ru" className={`${playfair.variable} ${manrope.variable}`}>
       <head>
+        <meta name="yandex-verification" content="5c91649e271af794" />
         <link rel="canonical" href="https://luckybear13casino.vercel.app/" />
         <meta name="robots" content="index, follow" />
         <meta name="author" content="Lucky Bear Casino" />
